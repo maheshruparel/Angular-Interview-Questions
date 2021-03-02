@@ -7,3 +7,16 @@ In Angular, component CSS styles are encapsulated into the component's view and 
 
 To control how this encapsulation happens on a per component basis, you can set the view encapsulation mode in the component metadata.
 <hr>
+
+### What are the Angular Lifecycle hooks ?
+
+Following are the Angular Lifecycle hooks in sequence.
+ngOnChanges()	
+ngOnInit()	
+ngDoCheck()	
+ngAfterContentInit()	
+ngAfterContentChecked()	
+ngAfterViewInit()	
+ngAfterViewChecked()	
+ngAfterViewChecked()	
+<hr>
