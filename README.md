@@ -11,6 +11,7 @@ To control how this encapsulation happens on a per component basis, you can set 
 ### What are the Angular Lifecycle hooks ?
 
 Following are the Angular Lifecycle hooks in sequence.
+```js
 ngOnChanges()	
 ngOnInit()	
 ngDoCheck()	
@@ -19,4 +20,5 @@ ngAfterContentChecked()
 ngAfterViewInit()	
 ngAfterViewChecked()	
 ngAfterViewChecked()	
+```
 <hr>
